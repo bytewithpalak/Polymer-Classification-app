@@ -36,7 +36,7 @@ Extra columns like `label`, `smiles`, or `Unnamed: 0` are ignored automatically.
 
 Want to see how the model was trained?
 
-🔗 [Click here to view the full ML project](https://github.com/byte_with_palak/polymer-ml-project)
+🔗 [Click here to view the full ML project](https://github.com/bytewithpalak/Polymer-Classification-using-ML)
 
 ---
 
