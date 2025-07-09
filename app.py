@@ -8,7 +8,7 @@ scaler = joblib.load("scaler.pkl")
 le = joblib.load("label_encoder.pkl")
 
 # Load sample dataset (to get column names or stats if needed)
-df = pd.read_csv("polymer_dataset.csv")  # Replace with actual filename
+df = pd.read_csv(https://drive.google.com/uc?export=download&id=1S1icf-UU0MPFW3atN16xStKO3Todlq8x)  # Replace with actual filename
 
 # Set page layout
 st.set_page_config(page_title="Polymer Classifier", page_icon="🧪", layout="centered")
