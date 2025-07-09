@@ -16,7 +16,7 @@ The app uses one of these trained models to perform real-time predictions on use
 ## 🚀 Run the App
 
 You can try the app directly here:  
-👉 [Click to open the app](https://polymer-classification-using-ml-dbrhj9axnusaoiremqwdfm.streamlit.app/)
+👉 [Click to open the app](https://polymer-classification-using-ml-2dd9wz8lspydfu965hzqcv.streamlit.app/)
 
 ---
 
