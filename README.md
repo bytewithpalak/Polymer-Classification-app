@@ -32,6 +32,13 @@ To use the app, you’ll need a CSV file that contains polymer data.
 Extra columns like `label`, `smiles`, or `Unnamed: 0` are ignored automatically.
 
 ---
+### 📂 Full Machine Learning Project
+
+Want to see how the model was trained?
+
+🔗 [Click here to view the full ML project](https://github.com/YOUR_USERNAME/polymer-ml-project)
+
+---
 
 ## ❤️ Built With
 
